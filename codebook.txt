@@ -1,0 +1,14 @@
+======================================
+run_analysis.R: 
+R script program to read, extract and analyze the data set and write the output file tidy_data.txt. 
+
+======================================
+README.md:
+Markdown file with code and instructions of steps. 
+
+======================================
+tidy_data.txt: 
+first column: the list of subject with levels of 30. 
+second column: the types of activity, 6 levels written in file activity_labels.txt file
+3-180 column: the averaged mean and std values for each activity and each subject. 
+
